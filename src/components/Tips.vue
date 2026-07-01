@@ -1,6 +1,3 @@
-<script setup>
-</script>
-
 <template>
   <section class="content-card tips-card">
     <div class="card-icon-wrapper">

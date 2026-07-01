@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 OceanWatch
+#  OceanWatch
 
 ### Microplastic Pollution Awareness
 
